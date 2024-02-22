@@ -1,0 +1,6 @@
+li a {
+    color: rgb(255, 255, 255);
+}
+body {
+    background: rgb(54, 203, 230) url("/polls/static/polls/images/blue-watercolor-stain-watercolor-background-free-png.webp") no-repeat;
+}
